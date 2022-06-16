@@ -16,15 +16,7 @@ Pour aujourd’hui : Que je fasse un tour complet sur plateforme et noter des re
 
 <!--truncate-->
 
-Dev : dev.uncove.com
-
-Prepod : preprod.uncove.com
-
-Prod : uncove.com
-
 En dev : Créer un compte créateur et un compte Fan pour tester les fonctionnalitées.
-
-Fausse carte de crédit : 4242 4242 4242 4242 / N’importe quel CVC / Une date dans le futur.
 
 ## 🔍 Exploration du site dev.uncove.com
 
