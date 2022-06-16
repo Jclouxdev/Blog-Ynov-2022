@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Jdev Workspace",
   tagline: "The place for my Documentations and Articles",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  url: "https://jclouxdev.github.io/Blog-Ynov-2022/",
+  baseUrl: "/Blog-Ynov-2022/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
