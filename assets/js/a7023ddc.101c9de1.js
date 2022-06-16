@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[713],{3457:function(e){e.exports=JSON.parse('[{"label":"Stage-2022","permalink":"/blog/tags/stage-2022","count":3},{"label":"Ynov","permalink":"/blog/tags/ynov","count":3},{"label":"Uncove","permalink":"/blog/tags/uncove","count":3}]')}}]);
