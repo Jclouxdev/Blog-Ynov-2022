@@ -19,6 +19,7 @@ const config = {
   organizationName: "Jclouxdev", // Usually your GitHub org/user name.
   projectName: "Blog-Ynov-2022", // Usually your repo name.
   deploymentBranch: "gh-pages", // The name of deployment branch.
+  trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want

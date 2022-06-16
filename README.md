@@ -57,3 +57,20 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 - `/package.json` - A Docusaurus website is a React app. You can install and use any npm packages you like in them
 
 - `/sidebars.js` - Used by the documentation to specify the order of documents in the sidebar
+
+## GitHub Page Deployment :
+
+In the config file :
+
+```js
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: "Jclouxdev", // Usually your GitHub org/user name.
+  projectName: "Blog-Ynov-2022", // Usually your repo name.
+  deploymentBranch: "gh-pages", // The name of deployment branch.
+  trailingSlash: false,
+```
+
+We use `USE_SSH=true` as env variable.
+
+Then you just have to run the in-build command `USE_SSH=true npm run deploy` on your `main` branch.
