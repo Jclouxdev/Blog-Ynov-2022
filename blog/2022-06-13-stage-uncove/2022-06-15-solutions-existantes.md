@@ -2,7 +2,7 @@
 slug: solutions-existantes
 title: Solutions existantes
 authors: joseph
-tags: [Stage-2022, Ynov, Uncove]
+tags: [Stage-2022, Semaine-1, Ynov, Uncove]
 ---
 
 # 15/06/2022 - Solutions existantes

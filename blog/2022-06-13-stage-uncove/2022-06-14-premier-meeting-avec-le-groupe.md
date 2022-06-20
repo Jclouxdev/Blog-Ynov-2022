@@ -2,7 +2,7 @@
 slug: premier-meeting-avec-le-groupe
 title: Premier meeting avec l'équipe
 authors: joseph
-tags: [Stage-2022, Ynov, Uncove]
+tags: [Stage-2022, Semaine-1, Ynov, Uncove]
 ---
 
 # 14/06/2022 - Premier Meeting avec l’équipe

@@ -2,7 +2,7 @@
 slug: premier-jour
 title: Premier jour
 authors: joseph
-tags: [Stage-2022, Ynov, Uncove]
+tags: [Stage-2022, Semaine-1, Ynov, Uncove]
 ---
 
 # 13/06/2022 - Premier jour
