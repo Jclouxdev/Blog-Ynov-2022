@@ -30,20 +30,6 @@ Retour 2 : Responsive qui manque un peu de finition en demi écran (la partie �
 
 ### Exploration - Fan
 
-**Compte :**
-
-Name : joseph
-
-Username : Bryzingr
-
-email : [riwawon318@falkyz.com](mailto:riwawon318@falkyz.com)
-
-mdp : TM8s&5jYY9aE3HAj
-
-Je suis un Fan
-
-Date de naissance : 01/05/1997
-
 **Visite guidée :**
 
 Des problèmes au niveau des placements de deux tooltips (voir screens).
@@ -64,24 +50,6 @@ Des problèmes au niveau des placements de deux tooltips (voir screens).
 - La “description” ou “phrase d’intro” disparait dans on passe dans les résolutions moyennes-basses. (CF Screens)
 
 ### Exploration - Uncover
-
-**_Compte :_**
-
-_Name : joseph_
-
-_Username : josephclx_
-
-_email : joseph.clx@gmail.com_
-
-_mdp : Dashlane_
-
-_Je suis un Uncover_
-
-_Date de naissance : 26/08/1998_
-
-**A la creation de compte :**
-
-- Problème avec le captcha avant la fin de la création - A retester pour voir si récurrent ou non. (Eu qu’une seule fois)
 
 **Visite guidée :**
 
