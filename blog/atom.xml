@@ -2,16 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jclouxdev.github.io/Blog-Ynov-2022/Blog-Ynov-2022/blog</id>
     <title>Jdev Workspace Blog</title>
-    <updated>2022-06-16T00:00:00.000Z</updated>
+    <updated>2022-06-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jclouxdev.github.io/Blog-Ynov-2022/Blog-Ynov-2022/blog"/>
     <subtitle>Jdev Workspace Blog</subtitle>
     <icon>https://jclouxdev.github.io/Blog-Ynov-2022/Blog-Ynov-2022/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Documentation de la semaine]]></title>
+        <id>documentation-de-la-semaine</id>
+        <link href="https://jclouxdev.github.io/Blog-Ynov-2022/Blog-Ynov-2022/blog/documentation-de-la-semaine"/>
+        <updated>2022-06-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Created10 AM]]></summary>
+        <content type="html"><![CDATA[<p>Created: June 17, 2022 9:10 AM
+Tags: Daily, Semaine-1</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-meeting">👨🏻‍🤝‍👨🏻 Meeting<a class="hash-link" href="#-meeting" title="Direct link to heading">​</a></h2><p>J’ai expliqué ce que j’ai trouvé hier, et que j’allais appronfondir sur la Technique sur le JPEG aujourd’hui pour voir si ca répondrait à notre problème.</p><p><strong>Tâche du jour :</strong></p><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Essayer de comprendre la logique pour écrire le message avec la technique du LowBit.</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Faire le permier récap des recherches sur le <strong>Confluence</strong>.</li></ul><h1>📒 Récapitulatif de la semaine</h1><p>L’objectif de ce Vendredi est de créer la documentation récapitulative de mes recherche de la semaine sur le Confluence d’Uncove.</p><p>Vous retrouverez ci-dessous les conclusions que j’ai tiré de mes recherches sur le sujet des Metadonnées et des Invisible Watermark.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-métadonnées-des-images">🖼 Métadonnées des Images<a class="hash-link" href="#-métadonnées-des-images" title="Direct link to heading">​</a></h2><p>La première étape est de chercher le fonctionnement de base des Métadonnées afin de maitriser un minimum le sujet pour les recherches qui arrivent.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-conclusion-sur-lutilisation-des-métadonnées">✍ Conclusion sur l’utilisation des Métadonnées<a class="hash-link" href="#-conclusion-sur-lutilisation-des-métadonnées" title="Direct link to heading">​</a></h3><p>Les <strong>métadonnées dans le cadre des copyrights et de tracking de média</strong> ne couvrent qu’<strong>une petite partie du problème</strong>.</p><p>Elles seront <strong>effacée en cas de capture d’écran</strong> et simpliment modifiable pour quelqu’un qui connait les Métadonnées des images.</p><p>Cependant, je pense qu’il est intéressant de <strong>travailler avec plusieurs couches</strong> pour nous faciliter le travail. On pourra donc appliquer les métadonnées lors du traitement de l’image afin de les lires sur les images retrouvées les moins retouchées.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-renseignement-sur-les-solutions-existantes">🔒 Renseignement sur les solutions existantes<a class="hash-link" href="#-renseignement-sur-les-solutions-existantes" title="Direct link to heading">​</a></h2><p>Une des solutions que j’ai trouvé lors de mes recherches sur les Métadonnées est appellée “Invisible Watermark”. Cette page à pour objectif d’en comprendre l’originie, et le fonctionnement.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-conclusion-sur-les-solutions-déjà-trouvées">✍ Conclusion sur les solutions déjà trouvées<a class="hash-link" href="#-conclusion-sur-les-solutions-déjà-trouvées" title="Direct link to heading">​</a></h3><p>Je suis certain qu’il faut créer plusieurs couches de protections pour contrer le maximum de situations.</p><p>3 niveaux de protections :</p><ul><li>🔴 Sécurité Faible : <strong>Watermark visible sur la photo</strong>. Pourra décourager les plus novice.</li><li>🟠 Sécurité Faible : <strong>Metadonnée pour le copyright</strong>. Fonctionnera sur les gens qui ne connaissent pas bien les médias mais inutile sur un simple screen shot.</li><li>🟢 Sécurité Moyenne à Haute : <strong>Créer un système de <em>“Invisible Watermark”</em></strong>. De loin le plus efficace, même si ca sous entendu de développer également une solution capable de le lire également.</li></ul>]]></content>
+        <author>
+            <name>Joseph Cloux</name>
+            <uri>https://github.com/Jclouxdev</uri>
+        </author>
+        <category label="Stage-2022" term="Stage-2022"/>
+        <category label="Semaine-1" term="Semaine-1"/>
+        <category label="Ynov" term="Ynov"/>
+        <category label="Uncove" term="Uncove"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stéganographie]]></title>
+        <id>steganographie</id>
+        <link href="https://jclouxdev.github.io/Blog-Ynov-2022/Blog-Ynov-2022/blog/steganographie"/>
+        <updated>2022-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Created14 AM]]></summary>
+        <content type="html"><![CDATA[<p>Created: June 16, 2022 11:14 AM
+Tags: Daily, Semaine-1</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-meeting">👨🏻‍🤝‍👨🏻 Meeting<a class="hash-link" href="#-meeting" title="Direct link to heading">​</a></h2><p>J’ai expliqué ce que j’ai trouvé hier, et que j’allais appronfondir sur la Technique sur le JPEG aujourd’hui pour voir si ca répondrait à notre problème.</p><p><strong>Tâche du jour :</strong></p><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Continuer la recherche, approfondir sur la technique avec les taux de compréssion des JPEG.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-stéganographie">📒 Stéganographie<a class="hash-link" href="#-stéganographie" title="Direct link to heading">​</a></h2><p><a href="https://fr.wikipedia.org/wiki/St%C3%A9ganographie#Message_cach%C3%A9_dans_les_images_compress%C3%A9es" target="_blank" rel="noopener noreferrer">Message caché dans les images compressées</a></p><p><a href="https://www.kapwing.com/resources/how-to-make-an-invisible-watermark-without-photoshop/" target="_blank" rel="noopener noreferrer">https://www.kapwing.com/resources/how-to-make-an-invisible-watermark-without-photoshop/</a></p><p>Idée ? Positionner une petite watermake en transparant en la mettant en très faible d’opacité à quelques endroits de la photo.</p><p>Problème : Difficile à “tracer”, dmenade une analyse humaine pour vérifier facilement la Watermark</p><p>💡 <strong>Site qui à l’air de bien expliquer le procédé :</strong></p><p><strong><a href="https://invisiblewatermark.net/how-invisible-watermarks-work.html" target="_blank" rel="noopener noreferrer">How invisible watermarks work</a></strong></p><blockquote><p>Les <strong><em>invisible watermarks</em></strong> fonctionnent en <strong>modifiant légèrement les valeurs des pixels</strong> d'une photographie.</p></blockquote><blockquote><p>Selon sa taille, les photographies auront des milliers, des millions voire des milliards de "pixels". Les pixels sont de minuscules carrés d'une seule couleur. Chaque pixel est composé de trois "canaux" : rouge, vert et bleu. En mélangeant diverses nuances de rouge, de vert et de bleu, nous pouvons en fait obtenir toutes les couleurs qu'un ordinateur peut restituer.</p></blockquote><blockquote><p>À la base, les <strong><em>invisible watermarks</em></strong> fonctionnent en arrondissant ces valeurs de canal au nombre pair ou impair le plus proche pour intégrer un "code" dans la photo. Les nombres impairs signifient que "le pixel de filigrane sous-jacent est blanc" et les nombres pairs signifient que "le pixel de filigrane sous-jacent est noir". Arrondir ces valeurs à des nombres pairs ou impairs modifie en fait l'image sous-jacente, mais de manière imperceptible. Il est très difficile pour l'œil humain de faire la différence entre une teinte rouge de 177/255 et 178/255.</p></blockquote><p><strong>Comment ajouter un <em>invisible watermarks</em> à ma photo ?</strong></p><p><a href="https://invisiblewatermark.net/" target="_blank" rel="noopener noreferrer">InvisibleWatermarks.net</a> le fait gratuitement.</p><p>Cette solution marche super bien, et avec le format Webp. Il faut comprendre comment ce tool fonctionne pour refaire pareil.</p>]]></content>
+        <author>
+            <name>Joseph Cloux</name>
+            <uri>https://github.com/Jclouxdev</uri>
+        </author>
+        <category label="Stage-2022" term="Stage-2022"/>
+        <category label="Semaine-1" term="Semaine-1"/>
+        <category label="Ynov" term="Ynov"/>
+        <category label="Uncove" term="Uncove"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Solutions existantes]]></title>
         <id>solutions-existantes</id>
         <link href="https://jclouxdev.github.io/Blog-Ynov-2022/Blog-Ynov-2022/blog/solutions-existantes"/>
-        <updated>2022-06-16T00:00:00.000Z</updated>
+        <updated>2022-06-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Created05 AM]]></summary>
         <content type="html"><![CDATA[<p>Created: June 15, 2022 9:05 AM
 Tags: Daily</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-meeting">👨🏻‍🤝‍👨🏻 Meeting<a class="hash-link" href="#-meeting" title="Direct link to heading">​</a></h2><p>Bonne piste pour les solutions qui impriment une signature dans les pixels. Ils ont eu l’idée de créer un pixel dans l’image avec un code correspondant à l’ID de l’utilisateur (par exemple).</p><p><strong>Tâche du jour :</strong></p><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Continuer la recherche, approfondir sur les solutions trouvée hier.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-renseignement-sur-les-solutions-existantes">📒 Renseignement sur les solutions existantes<a class="hash-link" href="#-renseignement-sur-les-solutions-existantes" title="Direct link to heading">​</a></h2><p>1️⃣ <a href="http://www.digimarc.com/technology/about-digital-watermarking" target="_blank" rel="noopener noreferrer"><strong>Digimarc</strong></a></p><blockquote><p><strong>Comment nous appliquons le filigrane</strong>
@@ -21,6 +55,7 @@ Les filigranes Digimarc sont appliqués dans des canaux de couleur individuels, 
             <uri>https://github.com/Jclouxdev</uri>
         </author>
         <category label="Stage-2022" term="Stage-2022"/>
+        <category label="Semaine-1" term="Semaine-1"/>
         <category label="Ynov" term="Ynov"/>
         <category label="Uncove" term="Uncove"/>
     </entry>
@@ -39,6 +74,7 @@ Vous devez publier vos images sur le web pour votre travail. Sachez qu'ils peuve
             <uri>https://github.com/Jclouxdev</uri>
         </author>
         <category label="Stage-2022" term="Stage-2022"/>
+        <category label="Semaine-1" term="Semaine-1"/>
         <category label="Ynov" term="Ynov"/>
         <category label="Uncove" term="Uncove"/>
     </entry>
@@ -55,6 +91,7 @@ Tags: Daily</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-meeting">👨
             <uri>https://github.com/Jclouxdev</uri>
         </author>
         <category label="Stage-2022" term="Stage-2022"/>
+        <category label="Semaine-1" term="Semaine-1"/>
         <category label="Ynov" term="Ynov"/>
         <category label="Uncove" term="Uncove"/>
     </entry>

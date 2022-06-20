@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4609],{2829:function(e){e.exports=JSON.parse('{"label":"Ynov","permalink":"/Blog-Ynov-2022/blog/tags/ynov","allTagsPath":"/Blog-Ynov-2022/blog/tags","count":5}')}}]);
