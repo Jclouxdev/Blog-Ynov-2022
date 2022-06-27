@@ -17,6 +17,12 @@ _Pour lancer le container Docker et pouvoir taper les commandes bash :_
 
 Uncove utilise des images au format `WEBP`, les tests seront donc réalisé avec ce format d'image.
 
+## Test de performances
+
+- Avec une image de `8600 x 5790` : Le script plante.
+- Avec une image de `1920 x 1200` : 11s pour appliquer la watermark.
+- Avec une image de `473 × 934` : 3s pour appliquer la watermark.
+
 ### 1️⃣ Insertion du message
 
 ```
@@ -28,7 +34,7 @@ Star matters: https://github.com/guofei9987/blind_watermark
 This message only show once. To close it: blind_watermark.bw_notes.close()
 
 Embed succeed! to file  output/embedded.webp
-Put down watermark size: 215
+Put down watermark size: 215a
 ```
 
 <!--truncate-->
