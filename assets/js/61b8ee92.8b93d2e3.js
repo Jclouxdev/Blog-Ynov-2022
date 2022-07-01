@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1793],{803:function(e){e.exports=JSON.parse('{"label":"Semaine-3","permalink":"/Blog-Ynov-2022/blog/tags/semaine-3","allTagsPath":"/Blog-Ynov-2022/blog/tags","count":2}')}}]);

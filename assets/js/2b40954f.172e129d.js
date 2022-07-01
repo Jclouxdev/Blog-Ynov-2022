@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8139],{2154:function(e){e.exports=JSON.parse('{"permalink":"/Blog-Ynov-2022/blog/tags/semaine-3","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
