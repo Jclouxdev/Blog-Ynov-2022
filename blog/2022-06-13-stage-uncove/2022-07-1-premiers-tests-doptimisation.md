@@ -62,7 +62,7 @@ print('Put down the length of wm_bit {len_wm}'.format(len_wm=len_wm))
 print('- - - - - - - - - - - - - - - - - - - - - - -')
 ```
 
-Je lance donc mon script avec `python3 efficacity_test[.py](http://start.py)` ce qui nous donne :
+Je lance donc mon script avec `python3 efficacity_test.py` ce qui nous donne :
 
 ```python
 root@dc6187b5a6a7:/usr/src/app# python3 start.py
@@ -78,7 +78,7 @@ Put down the length of wm_bit 78
 - - - - - - - - - - - - - - - - - - - - - - -
 ```
 
-Script d’extraction `[extract.py](http://extract.py)`
+Script d’extraction `extract.py`
 
 ```python
 from blind_watermark.blind_watermark import WaterMark
@@ -104,6 +104,14 @@ print('')
 Elle correspond aux nombres de pixels contenu dans le carré traité (Par défault dans le code 4x4). Plus on la monte, plus le traitement est censé être rapide. Mais il faut voir quel impact cela a sur la WaterMark.
 
 **Execution sur une image de 474 × 744px**
+
+**Récapitulatif de la première vague de test**
+
+| Taille du Block | Temps d'application de la WaterMark | Solidité de la WaterMark (Sur 10 tests) |
+| --------------- | ----------------------------------- | --------------------------------------- |
+| 4x4             | 1.26s                               | 80%                                     |
+| 8x8             | 0.83s                               | 40%                                     |
+| 16x16           | 0.62s                               | 40%                                     |
 
 **4x4 :**
 
